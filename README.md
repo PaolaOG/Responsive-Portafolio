@@ -5,7 +5,7 @@
 #### There is a lot that needs to be improve but trust me, it will improve
 #### Feel free to go and check it out !!!
 
-[Link to My Portafolio](https://paolaog.github.io/TriviaGame/index/index.html)
+[Link to My Portafolio](file:///C:/Users/paola/Desktop/Responsive-Portafolio/index.html)
 ![Image of Portafolio](https://github.com/PaolaOG/Responsive-Portafolio/blob/master/assets/images/SNOH5614.JPG)
 
 
