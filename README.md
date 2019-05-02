@@ -6,6 +6,6 @@
 #### Feel free to go and check it out !!!
 
 [Link My Portafolio](https://paolaog.github.io/TriviaGame/index/index.html)
-![Image of Portafolio]()
+![Image of Portafolio](https://github.com/PaolaOG/Responsive-Portafolio/blob/master/assets/images/SNOH5614.JPG)
 
 
